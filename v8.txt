@@ -1,0 +1,10 @@
+https://astexplorer.net/ 
+This website create Abstract Syntax Tree for the Javascript code.
+
+mark and sweep algorithm
+
+Google v8 has 
+Optimizer -> Inlining, copy elision, Inline Caching
+interpreter -> Ignition 
+Compliler -> Turbo Fan (optimizing compiler)
+Garbage collector -> orinoco, Oilpam
